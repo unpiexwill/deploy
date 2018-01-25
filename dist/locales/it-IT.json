@@ -1,0 +1,43 @@
+{
+  "FUTURE_VALUE": "valore futuro",
+  "FUTURE_VALUE_ADJ": "Valore futuro (aggiuntivo per l'inflazione)",
+  "FUTURE_VALUE_NOT_ADJ": "Valore futuro (non aggiuntivo per l'inflazione)",
+
+
+  "FUTURE_VALUE_W_INTEREST": "Valore futuro (interesse w)",
+  "FUTURE_VALUE_WO_INTEREST": "Valore futuro (senza interesse)",
+  "PERIODIC_PAYMENT_ADJ": "Pagamento periodico (adj per inflazione)",
+  "PERIODIC_PAYMENT_NOT_ADJ": "Pagamento periodico (non aggiuntivo per l'inflazione)",
+  "SUM_OF_ALL_PAYMENTS_WO_INTEREST": "Somma di tutti i pagamenti (senza interessi)",
+  "TOTAL_SPENDING_WO_INTEREST": "Spesa totale durante la pensione (senza interesse)",
+  "WEALTH_REQUIRED": "Ricchezza necessaria per finanziare la spesa totale durante il pensionamento",
+  "SPENDING_PER_YEAR": "Spesa per anno",
+  "SPENDING_PER_YEAR_ADJ": "Spesa per anno (adj inflazione)",
+  "WEALTH_REQUIRED_ADJ": "Ricchezza necessaria per finanziare la spesa totale (per inflazione)",
+  "WEALTH_REQUIRED_NOT_ADJ": "Ricchezza necessaria per finanziare la spesa totale (non per inflazione)",
+
+  "PRESENT_VALUE": "Valore attuale",
+  "PERIODIC_SAVINGS": "Pagamenti periodici di risparmio",
+  "PERIODIC_SPENDING": "Spesa periodica",
+  "PERIODIC_PAYMENT": "pagamento periodico",
+  "PERIODIC_SAVINGS_ADJ": "Pagamenti periodici di risparmio (aggiuntivo per l'inflazione)",
+  "PERIODIC_SPENDING_ADJ": "Spesa periodica (per inflazione)",
+  "INTEREST": "Tasso di interesse",
+  "INFLATION": "Previsione dell'inflazione",
+  "HORIZON": "Orizzonte (anni)",
+  "HORIZON_SAVINGS": "Orizzonte per risparmio (anni)",
+  "HORIZON_WITHDRAWS": "Orizzonte per i prelievi (anni)",
+  "YEARLY_SAVING": "Risparmio annuo durante il lavoro",
+  "YEARLY_SPENDING": "Spesa annuale durante il pensionamento",
+
+  "CASE1_TITLE": "Caso 1: FV Pagamento unico",
+  "CASE2_TITLE": "Caso 2: FV Pagamento unico con inflazione",
+  "CASE3_TITLE": "Caso 3: rendita annuale nominale",
+  "CASE4_TITLE": "Caso 4: FV const. Ann. Adj. Per infl.",
+  "CASE5_TITLE": "Caso 5: FV real ann. Adj. Per infl.",
+  "CASE6_TITLE": "Caso 6: PV dell'annualità nominale",
+  "CASE7_TITLE": "Caso 7: PV di annuale reale annuale per infl",
+  "CASE8_TITLE": "Caso 8: risparmio di link -> prelievi",
+  "CASE9_TITLE": "Caso 9: ritiri di link -> risparmi",
+  "VALUE": "valore"
+}

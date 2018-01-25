@@ -1,0 +1,43 @@
+{
+  "FUTURE_VALUE": "Valeur future",
+  "FUTURE_VALUE_ADJ": "Valeur future (adj. Pour l'inflation)",
+  "FUTURE_VALUE_NOT_ADJ": "Valeur future (non adj. Pour l'inflation)",
+
+  "FUTURE_VALUE_W_INTEREST": "Valeur future (intérêt)",
+  "FUTURE_VALUE_WO_INTEREST": "Valeur future (sans intérêt)",
+  "PERIODIC_PAYMENT_ADJ": "Paiement périodique (adj. Pour l'inflation)",
+  "PERIODIC_PAYMENT_NOT_ADJ": "Paiement périodique (non adj. Pour l'inflation)",
+  "SUM_OF_ALL_PAYMENTS_WO_INTEREST": "Somme de tous les paiements (sans intérêt)",
+  "TOTAL_SPENDING_WO_INTEREST": "Dépenses totales pendant la retraite (sans intérêt)",
+  "WEALTH_REQUIRED": "La richesse requise pour financer les dépenses totales pendant la retraite",
+  "SPENDING_PER_YEAR": "Dépenses par an",
+  "SPENDING_PER_YEAR_ADJ": "Dépenses par année (adj. Pour l'inflation)",
+  "WEALTH_REQUIRED_ADJ": "La richesse requise pour financer les dépenses totales (adj. Pour l'inflation)",
+  "WEALTH_REQUIRED_NOT_ADJ": "La richesse requise pour financer les dépenses totales (pas adj. Pour l'inflation)",
+
+
+  "PRESENT_VALUE": "Valeur actuelle",
+  "PERIODIC_SAVINGS": "Paiements d'épargne périodiques",
+  "PERIODIC_SPENDING": "Dépenses périodiques",
+  "PERIODIC_PAYMENT": "Paiement périodique",
+  "PERIODIC_SAVINGS_ADJ": "Paiements d'épargne périodiques (adj. Pour l'inflation)",
+  "PERIODIC_SPENDING_ADJ": "Dépenses périodiques (adj. Pour l'inflation)",
+  "INTEREST": "taux d'intérêt",
+  "INFLATION": "Prévisions d'inflation",
+  "HORIZON": "Horizon (années)",
+  "HORIZON_SAVINGS": "Horizon pour les économies (années)",
+  "HORIZON_WITHDRAWS": "Horizon pour les retraits (années)",
+  "YEARLY_SAVING": "Économies annuelles en cours de travail",
+  "YEARLY_SPENDING": "Dépenses annuelles pendant la retraite",
+
+  "CASE1_TITLE": "Cas 1: Paiement unique FV,",
+  "CASE2_TITLE": "Cas 2: FV Paiement unique avec inflation",
+  "CASE3_TITLE": "Cas 3: rente de FV nominale",
+  "CASE4_TITLE": "Cas 4: FV const. Ann. Adj. Pour infl",
+  "CASE5_TITLE": "Cas 5: FV real ann. Adj. Pour infl.",
+  "CASE6_TITLE": "Cas 6: PV de la rente nominale",
+  "CASE7_TITLE": "Cas 7: PV de l'ann. Adj. Pour infl",
+  "CASE8_TITLE": "Cas 8: Économies de lien -> retraits",
+  "CASE9_TITLE": "Cas 9: retraits de lien -> épargne",
+  "VALUE": "valeur"
+}
